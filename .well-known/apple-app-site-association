@@ -1,0 +1,11 @@
+
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TeamID.BundleID"],
+        "components": ["/path1/*", "/path2/deep-link"]
+      }
+    ]
+  }
+}
